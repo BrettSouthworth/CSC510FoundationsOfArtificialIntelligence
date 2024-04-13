@@ -100,5 +100,6 @@ if __name__ == "__main__":
     ann.train(X, y, epochs, learning_rate)
 
     # Test prediction
-    test_input = np.array([[1, 0]])
+    input_list = [float(x) for x in input("Enter test input (separated by spaces): ").split()]
+    test_input = np.array(input_list)
     print("Prediction for [1, 0]:", ann.predict(test_input))
