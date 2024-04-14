@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Module4CriticalThinking", "Module4CriticalThinking\Module4CriticalThinking.pyproj", "{B232E41A-5A15-4362-BDC5-28A7405AD35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B232E41A-5A15-4362-BDC5-28A7405AD35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B232E41A-5A15-4362-BDC5-28A7405AD35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D49CF0-968D-485A-BCCB-3BCF0471A285}
+	EndGlobalSection
+EndGlobal
